@@ -1,4 +1,4 @@
-import "./ExampleButton.css";
+import "./TabButton.css";
 
 function TabButton({ children, onSelect, isSelected }) {
   return (
