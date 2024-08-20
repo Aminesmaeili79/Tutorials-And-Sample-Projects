@@ -30,7 +30,7 @@ The documentation of ASP.NET Core by Microsoft contains all the fundamental and 
   <li>Real-time Apps</li>
   <li>Remote Procesure Call Apps</li>
   <li>Servers (IIS, Kestrel, HTTP.sys)</li>
-  <li><Testing/li>
+  <li>Testing</li>
   <li>Identity And Security</li>
   <li>Migrations, and many more...</li>
 </ul>
