@@ -22,8 +22,8 @@ This is also a tutorial by Maximillian Schwarzmüller on <a href="htpps://www.ud
   <li>NodeJS ecosystem and build server-side rendered apps, REST APIs and GraphQL APIs</li>
 </ul>
 
-## <a href="https://learn.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core?view=aspnetcore-8.0">ASP.NET Core Documentation</a> (In Progress)
-The documentation of ASP.NET Core by Microsoft contains all the fundamental and core concepts of the framework for deep and better understanding:
+## ASP.NET Core <a href="https://learn.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core?view=aspnetcore-8.0">Documentation</a> And <a href="https://www.udemy.com/course/asp-net-core-true-ultimate-guide-real-project">Udemy Course</a> (In Progress)
+The documentation of ASP.NET Core by Microsoft contains all the fundamental and core concepts of the framework for deep and better understanding. Combining it with the .NET Core course by Harsha Vardhan on <a href="htpps://www.udemy.com">Udemy.com</a>, helps to hone your skills on this C# framework:
 <ul>
   <li>Razor Pages</li>
   <li>APIs</li>
@@ -34,3 +34,4 @@ The documentation of ASP.NET Core by Microsoft contains all the fundamental and 
   <li>Identity And Security</li>
   <li>Migrations, and many more...</li>
 </ul>
+
