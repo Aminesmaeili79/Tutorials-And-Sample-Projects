@@ -1,12 +1,13 @@
+using MiddlewaresTutorial.Middlewares;
+
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddTransient<CustomMiddleware>();
+
 var app = builder.Build();
 
 // Middleware 1
-app.Use(async (HttpContext context, RequestDelegate next) =>
-{
-    await context.Response.WriteAsync("Hello from the first middleware!\n");
-    await next(context);
-});
+app.UseMiddleware<CustomMiddleware>();
 
 // Middleware 2
 app.Use(async (HttpContext context, RequestDelegate next) =>
